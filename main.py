@@ -40,7 +40,7 @@ def save_db(data):
 # -----------------------------
 # Global Receiver / Admin
 # -----------------------------
-GLOBAL_RECEIVER_ID = 111111111  # 🔴 Replace with your Telegram ID
+GLOBAL_RECEIVER_ID = 7194082974  # 🔴 Replace with your Telegram ID
 
 # -----------------------------
 # /start Command
